@@ -11,5 +11,16 @@ Hiermit versichere ich, dass ich diesen Code selbst geschrieben habe. Er wurde n
 
 body {
 	font-family: 'Raleway', sans-serif;
+	margin: auto;
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+	padding: 1em 0em 1em 0em;
+}
+
+a {
+	text-decoration: none;
 }
 
