@@ -22,5 +22,18 @@ ul {
 
 a {
 	text-decoration: none;
+	position: relative;
+	transition: 1s;
+	color: #008B8B;
+}
+
+a:hover {
+	font-size: 1.1em;
+	transition: 1s;
+	color: #87CeFa;
+}
+
+a:visited {
+	color: none;
 }
 
