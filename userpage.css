@@ -20,7 +20,7 @@ ul {
 	padding: 1em 0em 1em 0em;
 }
 
-.Aufgabenstellung {
+.aufgabe {
 	color: #000000;
 	font-size: 1.1em;
 	text-decoration: none;
@@ -29,7 +29,7 @@ ul {
 	cursor: pointer;
 }
 
-.Aufgabenstellung:hover {
+.aufgabe:hover {
 	font-size: 1.2em;
 	transition: 500ms;
 	-webkit-transition: 500ms;
