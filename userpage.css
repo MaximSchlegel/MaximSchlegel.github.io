@@ -20,16 +20,35 @@ ul {
 	padding: 1em 0em 1em 0em;
 }
 
+.Aufgabenstellung {
+	color: #000000;
+	font-size: 1.1em;
+	text-decoration: none;
+	transition: 500ms;
+	-webkit-transition: 500ms;
+	cursor: pointer;
+}
+
+.Aufgabenstellung:hover {
+	font-size: 1.2em;
+	transition: 500ms;
+	-webkit-transition: 500ms;
+	color: #c2a263;
+}
+
 a {
+	font-size: 1em;
 	text-decoration: none;
 	position: relative;
-	transition: 1s;
+	transition: 500ms;
+	-webkit-transition: 500ms;
 	color: #008B8B;
 }
 
 a:hover {
 	font-size: 1.1em;
-	transition: 1s;
+	transition: 500ms;
+	-webkit-transition: 500ms;
 	color: #87CeFa;
 }
 
