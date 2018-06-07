@@ -12,6 +12,7 @@ Hiermit versichere ich, dass ich diesen Code selbst geschrieben habe. Er wurde n
 body {
 	font-family: 'Raleway', sans-serif;
 	margin: auto;
+	padding-bottom: 2em;
 	text-align: center;
 }
 
